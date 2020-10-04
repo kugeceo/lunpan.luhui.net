@@ -1,6 +1,9 @@
 # lunpan.luhui.net
 鲁虺时间轮盘
 
+http://lunpan.luhui.net/
+
+
 http://luopan.luhui.net/
 #
 用vue2.6构建一个抖音很火的【时间轮盘】
