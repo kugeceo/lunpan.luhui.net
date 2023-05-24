@@ -11,7 +11,7 @@ http://luopan.luhui.net/
 # 设置功能： 国际化语言切换，全屏，垂直水平位置，缩放大小，旋转角度，文字颜色，背景颜色 
 
 
-![luhuiWebPhotoshop绘制展示1](%E7%94%A8vue2.6%E6%9E%84%E5%BB%BA%E6%97%B6%E9%97%B4%E8%BD%AE%E7%9B%98%E5%B0%8Fdemo%E6%88%AA%E5%9B%BE_20201004131512.jpg)
+![luhui绘制展示1](http://lunpan.guanfu.org/%E7%94%A8vue2.6%E6%9E%84%E5%BB%BA%E6%97%B6%E9%97%B4%E8%BD%AE%E7%9B%98%E5%B0%8Fdemo%E6%88%AA%E5%9B%BE_20201004131512.jpg)
 
 #luhui word-clock在线托管演示使用
 
@@ -22,7 +22,7 @@ https://luopan.netlify.app/
 
 
 
-
+http://lunpan.guanfu.org/
 
 
 
